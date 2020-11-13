@@ -1,0 +1,17 @@
+#lista-productos{
+    text-align: center;
+    background-color: lightblue;
+}
+h1{
+    text-align: center;
+    background-color: cornflowerblue;
+    color: darkorchid;
+}
+#calcularTotal{
+    text-align: center;
+    background-color: gray;
+}
+#boton{
+    background-color: olivedrab;
+    color: indigo;
+}
